@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "660639213575",
+    "firebase_url": "https://teknopusula-a2d3c.firebaseio.com",
+    "project_id": "teknopusula-a2d3c",
+    "storage_bucket": "teknopusula-a2d3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660639213575:android:01d8300daad5466a",
+        "android_client_info": {
+          "package_name": "com.uygulama.marstech.teknopusula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660639213575-34djbmv5cnrscl8bnnhu8debg1kl2lm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uygulama.marstech.teknopusula",
+            "certificate_hash": "2f6d7a122443eafdf59d5f5d88ccc665165d0a55"
+          }
+        },
+        {
+          "client_id": "660639213575-gnltvbobi5itnlktppsmhr284c5cout2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWZfWdow-7zHfmdet88lJ7A4NoiLLq9fI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660639213575-gnltvbobi5itnlktppsmhr284c5cout2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

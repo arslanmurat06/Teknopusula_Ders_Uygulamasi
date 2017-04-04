@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_anasayfa"
+            android:icon="@drawable/ic_anasayfa_2"
+            android:title="Anasayfa" />
+        <item
+            android:id="@+id/nav_mobil"
+            android:icon="@drawable/ic_mobil"
+            android:title="Mobil" />
+        <item
+            android:id="@+id/nav_nasil_yapilir"
+            android:icon="@drawable/ic_nasil_yapilir"
+            android:title="Nasıl Yapılır" />
+        <item
+            android:id="@+id/nav_oyun"
+            android:icon="@drawable/ic_oyun_2"
+            android:title="Oyun" />
+        <item
+            android:id="@+id/nav_egitim"
+            android:icon="@drawable/ic_egitim"
+            android:title="Eğitim" />
+        <item
+            android:id="@+id/nav_sosyal_medya"
+            android:icon="@drawable/ic_sosyal_medya"
+            android:title="Sosyal Medya" />
+    </group>
+
+    <item android:title="Bize Ulaşın">
+        <menu>
+            <item
+                android:id="@+id/nav_iletisim"
+                android:icon="@drawable/ic_menu_send"
+                android:title="İletişim" />
+            <item
+            android:id="@+id/nav_hakkimizda"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Hakkımızda" />
+        </menu>
+    </item>
+
+</menu>
